@@ -26,12 +26,12 @@ NAME: SOUNDARIYAN M.N
 REG: 212222230146
 ```
 
-
+```
 import matplotlib.pyplot as plt
 x_values=[0,1,2,3,4,5]
 y_values=[0,1,4,9,16,25]
 plt.plot(x_values,y_values)
-
+```
 ![image](https://github.com/soundariyan18/ODD2023-Datascience-Ex-08/assets/119393307/33fafaed-c1a2-436b-b09a-715cbcada30d)
 
 x=[1,2,3]
